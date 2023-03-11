@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "init": "rimraf .git",
     "html": "open-cli ./index.html"
   },
   "author": "godicheol <godicheol@gmail.com>",
